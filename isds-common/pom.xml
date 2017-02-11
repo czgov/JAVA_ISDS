@@ -4,7 +4,7 @@
   <parent>
     <artifactId>java-isds</artifactId>
     <groupId>cz.abclinuxu.datoveschranky</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0</version>
   </parent>
 
   <artifactId>isds-common</artifactId>
