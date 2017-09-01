@@ -4,7 +4,7 @@
   <parent>
     <artifactId>java-isds</artifactId>
     <groupId>cz.abclinuxu.datoveschranky</groupId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
   </parent>
 
   <packaging>bundle</packaging>
@@ -25,12 +25,12 @@
     <dependency>
       <groupId>cz.abclinuxu.datoveschranky</groupId>
       <artifactId>isds-common</artifactId>
-      <version>1.1.1-SNAPSHOT</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>cz.abclinuxu.datoveschranky</groupId>
       <artifactId>isds-web-services</artifactId>
-      <version>1.1.1-SNAPSHOT</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
 	  <!-- bcpkix transitively depends on bcprov-jdk15on -->
